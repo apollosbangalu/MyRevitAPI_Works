@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"	encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Test Works</Name>
+		<Assembly>TestWorks.dll</Assembly>
+		<AddInId>7DB585A0-D73C-47B4-B353-B33CB3CDAFF9</AddInId>
+		<FullClassName>TestWorks.MyApp</FullClassName>
+		<VendorId>Apollos Dev</VendorId>
+		<VendorDescription>https://github.com/apollosbangalu</VendorDescription>
+	</AddIn>
+</RevitAddIns>
